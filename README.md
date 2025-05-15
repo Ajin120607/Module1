@@ -1,4 +1,4 @@
-1.# Conditional Statements in Python: Even or Odd Checker
+## 1. Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
@@ -29,7 +29,8 @@ else:
 
 Thus the program executed successfully.
 
-2.# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+
+## 2.Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -60,9 +61,10 @@ print("d:",d)
 ## Output
 ![Screenshot 2025-04-28 190645](https://github.com/user-attachments/assets/a141ee30-9f06-4703-ba13-a41838380691)
 ## Result
-Thus, the python program was executed successfully
+Thus, the python program was executed successfully.
 
-3.# Datatypes-Character Literal in Python
+
+## 3.Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
@@ -81,9 +83,10 @@ print(w)
 ## Output
 ![Screenshot 2025-04-28 190703](https://github.com/user-attachments/assets/71e9266f-f97e-4d48-ba84-c7fbffc69e6b)
 ## Result
-Thus, the python program was executed successfully
+Thus, the python program was executed successfully.
 
-4.# 🧮 Datatypes-Complex Number Creation in Python
+
+## 4.🧮 Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
@@ -108,9 +111,10 @@ print(complex_number.real)
 ## Output
 ![Screenshot 2025-04-28 190718](https://github.com/user-attachments/assets/54a48a7f-2648-4e4e-855f-0044b5fc793d)
 ## Result
-Thus,the python program was executed successfully
+Thus,the python program was executed successfully.
 
-5.# Datatypes-Read and Print a String in Python
+
+## 5.Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
